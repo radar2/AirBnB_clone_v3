@@ -2,7 +2,7 @@
 """Places"""
 from api.v1.views import app_views
 from flask import request, jsonify, abort
-from models import storage, places
+from models import storage, place
 
 
 @app_views.route('/cities/<city_id>/places', methods=['GET'],
