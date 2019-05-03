@@ -29,7 +29,8 @@ def getplaces(place_id=None):
         return jsonify(s.to_dict())
 
 
-@app_views.route('/places/<place_id>', methods=['DELETE'], strict_slashes=False)
+@app_views.route('/places/<place_id>', methods=['DELETE'],
+                 strict_slashes=False)
 def deleteplaces(place_id=None):
     """Deletes a place"""
     s = storage.get("Place", place_id)
