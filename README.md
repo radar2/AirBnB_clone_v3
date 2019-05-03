@@ -157,10 +157,22 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
+Second part of Airbnb: Joann Vuong
+
+---
+# AirBnB Clone V3 - RESTful API
+
+## Description
+
+Integrating Flask web framework and REST into the Airbnb Clone project from a previous cohort.
+
+---
+
 ## Authors
 * **Derrick Gee** - [kai-dg](https://github.com/kai-dg)
 * **Wescott Sharples** - [wescottsharples](https://github.com/wescottsharples)
 
-Second part of Airbnb: Joann Vuong
+---
+
 ## License
 Public Domain. No copy write protection. 
